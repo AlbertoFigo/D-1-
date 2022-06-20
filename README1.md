@@ -1,0 +1,35 @@
+# D-1-
+маленький проект 
+
+<!DOCTYPE html>
+<html class="client-js ve-available" lang="ru" dir="itr">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" type="text/css href=style.css">
+   <link rel="stylesheet" href="/html/css/style1.css">
+   <title>Welcom back</title>
+</head>
+<body>
+   <img class="img" src="/html/logo/unsplash_uQDRDqpYJHI.jpg" alt="волны океана" >
+  <div class="menu">
+     <div class="container">
+       <div class="topnav">
+        <ul><a href="#">Home</a></ul>
+        <ul><a href="#">Visit</a></ul>
+        <ul><a href="#">Contact</a></ul>
+      </div>
+     </div>
+  </div>
+  <h2 class="text1">Lorem ipsum dolor sit</h2>
+  <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing<br> elit. Massa phasellus sed habitant ullamcorper sit<br> ipsum quis. Netus
+imperdiet nec etiam et commodo.<br> Elementum, praesent lacus, pretium leo sed quis.<br> Ornare nisl nisi, ut velit ut hac.
+Elementum ultrices<br> scelerisque in id risus mollis molestie. Pellentesque<br> enim sem pellentesque gravida. Etiam vel, vel
+ut<br> euismod neque. Sed augue ante urna integer gravida<br> lacus. At fermentum neque faucibus purus at. Viverra<br> lobortis
+dictum rhoncus urna, ipsum pellentesque<br> amet. Scelerisque lectus et accumsan, lectus laoreet<br> donec ornare vel. Quis mi
+pulvinar vitae ut sagittis.<br> Tellus, tellus odio mauris ac enim.<br>
+Massa, risus at euismod leo, blandit nunc orci. A nisi,<br> libero, euismod sit. Id porttitor dictumst porta mi.<br> Interdum
+rhoncus, malesuada sem gravida lacus, nisi,<br> eleifend pharetra, nam. Et ac odio molestie nunc.</p>
+</body>
+</html>
